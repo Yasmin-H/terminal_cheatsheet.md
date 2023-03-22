@@ -8,3 +8,4 @@
 * `mkdir`: make a new directory
 * `touch`: to create a new file
 * `open`: use whatever the default program for that type of file is to open it
+* `mv`: To move a file
