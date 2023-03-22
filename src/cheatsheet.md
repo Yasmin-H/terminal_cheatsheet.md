@@ -6,3 +6,4 @@
 * `ls-al` :   a list of files and folders including hidden files
 * `cd`: to change directory
 * `mkdir`: make a new directory
+* `touch`: to create a new file
